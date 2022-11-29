@@ -7,14 +7,28 @@ assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+## Summary
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+(Summarize the feature needed)
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+## Why do we need the feature? What needs to be improved?
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+(why is the feature needed)
+
+## Example Projekt oder Beispiel Code (Optional)
+
+[Example repo](https://www.git-ce.rwth-aachen.de/path-to-your-repository)
+
+````
+(write some Pseudo code to show the functionality or link an existing repository to showcase what the feature is doing)
+````
+
+## Tasks
+
+- [ ] create todos
+
+## Documentation
+
+- [ ] Changelog Eintrag
+- [ ] Javadoc
+- [ ] UML
